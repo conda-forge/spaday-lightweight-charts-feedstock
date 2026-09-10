@@ -1,5 +1,5 @@
 context:
-  version: "0.2.0"
+  version: "0.2.1"
   python_min: "3.11"
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/spaday-lightweight-charts/spaday_lightweight_charts-${{ version }}.tar.gz
-  sha256: 9c50a6f3dd5dcb995acb6978a3c572b74a48a5dac42c75bc269e7793707dfb5a
+  sha256: 68a474e1a95316f6ec0e580ec462cf47c1df3f6ec4df75004f9c3e317da2b26e
 
 build:
   number: 0
